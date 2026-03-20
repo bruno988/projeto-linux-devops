@@ -1,0 +1,15 @@
+# Logs
+*.log
+logs/
+
+# Backups
+backups/
+
+# Python
+*.pyc
+__pycache__/
+
+# Ambiente
+.env
+*.pem
+*.ppk
